@@ -10,6 +10,14 @@ h1 {
 h3{
     padding: 5px;
 }
+
+.croissant-img-main {
+    max-width: 100%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+  }
+  
 .main-page-link {
     padding-left: 15px;
 }
