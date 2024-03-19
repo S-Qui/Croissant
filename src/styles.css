@@ -17,12 +17,16 @@ h3{
     display: block;
     margin: 30px auto;
   }
+
+footer {
+ margin: 15px;
+  }
   
 .main-page-link {
-    padding-left: 15px;
+    padding-left: 20px;
 }
 .photo-page-link {
-    padding-left: 15px;
+    padding-left: 20px;
 }
 
 .main-page-link:hover {
@@ -30,5 +34,9 @@ h3{
 }
 
 .photo-page-link:hover {
+    color: red;
+}
+
+.contact-page-link:hover {
     color: red;
 }
